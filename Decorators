@@ -1,0 +1,6 @@
+Decorators allow us to wrap another function in order to extend the behaviour of the wrapped function, without permanently modifying it.
+
+the decorators are used to modify the behaviour of function or class. In Decorators, functions are taken as the argument into another
+function and then called inside the wrapper function.
+
+decorator is a callable function, that will add some code on the top of some another callable function, hello_decorator function and return the wrapper function.
