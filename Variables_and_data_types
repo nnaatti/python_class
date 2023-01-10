@@ -1,0 +1,27 @@
+ Variable
+
+Variables are containers for storing data values.
+
+A Python variable is a symbolic name that is a reference or pointer to an object. 
+Once an object is assigned to a variable, you can refer to the object by that name. But the data itself is still contained within the object.
+
+Python has no command for declaring a variable.
+
+A variable is created the moment you first assign a value to it.
+
+Ex:- x = 5
+     y = "John"
+     
+Variables do not need to be declared with any particular type, and can even change type after they have been set.
+
+You can get the data type of a variable with the type() function.
+
+#Data type
+
+Variables can store data of different types, and different types can do different things.
+
+Python has data types built-in by default such as:- str, int, float, complex, list, tuple, bool...
+
+In Python, the data type is set when you assign a value to a variable.
+
+If you want to specify the data type, you can use the following constructor functions.
