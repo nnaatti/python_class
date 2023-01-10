@@ -1,0 +1,23 @@
+Data Structures are a way of organizing data so that it can be accessed more efficiently depending upon the situation. 
+
+Data Structures are fundamentals of any programming language around which a program is built. 
+
+Python helps to learn the fundamental of these data structures in a simpler way as compared to other programming languages.
+The basic Python data structures in Python include list, set, tuples, and dictionary. 
+
+Each of the data structures is unique in its own way. Data structures are “containers” that organize and group data according to type.
+
+-Lists, sets, and tuples are the basic data structures in the Python programming language.
+-One of the differing points among the data structures is mutability, which is the ability to change an object after its creation.
+-Lists and tuples are the most useful data types, and they can be found in virtually every Python program.
+
+* A list is defined as an ordered collection of items, and it is one of the essential data structures when using Python to create a project. 
+The term “ordered collections” means that each item in a list comes with an order that uniquely identifies them. The order of elements is an 
+inherent characteristic that remains constant throughout the life of the list.
+
+* A set is defined as a unique collection of unique elements that do not follow a specific order. Sets are used when the existence of an object
+in a collection of objects is more important than the number of times it appears or the order of the objects. Unlike tuples, sets are mutable. 
+
+– They can be modified, added, replaced, or removed. A sample set can be represented as follows:
+
+set_a = {“item 1”, “item 2”, “item 3”,….., “item n”}
